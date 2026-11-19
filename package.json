@@ -1,0 +1,9 @@
+{
+  "name": "ux-journey-auditor",
+  "version": "1.0.0",
+  "private": false,
+  "description": "Prototype public d'audit UX des parcours web",
+  "scripts": {
+    "start": "python -m http.server 4173"
+  }
+}
